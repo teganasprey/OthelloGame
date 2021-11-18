@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/teganasprey/.dotnet/store/|arch|/|tfm|",
+      "/Users/teganasprey/.nuget/packages"
+    ]
+  }
+}
