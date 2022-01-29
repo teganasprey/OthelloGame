@@ -1,2 +1,5 @@
-# OthelloGame
-Retro Othello board game
+# Othello
+Othello game developed in C#.  
+
+![Screenshot](OthelloScreenshot.png)
+
